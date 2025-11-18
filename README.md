@@ -12,19 +12,19 @@ Senior studying Statistics + Computer Science
 ### 1. Power BI Sales Dashboard
 Interactive dashboard analyzing product performance, KPIs, and monthly trends.
 **Tools:** Power BI, Power Query  
-    - GitHub Repo: 
-    - Dashboard Overview (Notion): 
+- GitHub Repo: 
+- Dashboard Overview (Notion): 
 
 ### 2. Customer Churn Analytics (Power BI)
 Identified key churn drivers using interactive visuals and segmentation.
 **Tools:** Power BI, DAX  
-    - GitHub Repo:   
-    - Dashboard Overview: 
+- GitHub Repo:   
+- Dashboard Overview: 
 
 ### 3. SAS Mini Analytics Project
 Performed summary statistics, data cleaning, and regression in SAS.
 **Tools:** SAS, PROC MEANS, PROC FREQ, PROC REG  
-    - GitHub Repo: link  
+- GitHub Repo: link  
 
 ## In-Progress Projects
 1. Video Game Sales Analytics & Modeling Project
