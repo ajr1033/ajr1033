@@ -2,13 +2,13 @@
 Senior studying Statistics + Computer Science 
 • R • Python • SQL • SAS • Power BI
 
-## 🔍 About Me
+## About Me
 - Data Analytics student graduating May 2026  
 - Interested in business analytics, predictive modeling, and BI dashboards  
 - Currently learning SAS and Power BI  
 - Working on analytics projects to build my portfolio  
 
-## 📊 Featured Projects
+## Featured Projects
 ### 1. Power BI Sales Dashboard
 Interactive dashboard analyzing product performance, KPIs, and monthly trends.
 **Tools:** Power BI, Power Query  
@@ -41,11 +41,11 @@ global/regional trends and identify what drives game sales.
     GitHub Repo: link
     Dashboard Overview: 
 
-## 🛠️ Tools & Skills
+## Tools & Skills
 - **Programming:** Python, R, SQL, SAS  
 - **Analytics:** Power BI, Regression Modeling, EDA  
 - **Data:** Pandas, dplyr, Power Query  
 - **Other:** Git, Jupyter Notebooks  
 
-## 📬 Contact
+## Contact
 **LinkedIn:** https://www.linkedin.com/in/annajruffley/  
